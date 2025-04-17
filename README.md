@@ -56,7 +56,7 @@
 
 ## 📬 Vamos nos conectar?
 
-- 💌 **Email:** seuemail@email.com  
+- 💌 **Email:** dhayvesonkelwen@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
 <!-- Coloque aqui seu portfólio quando estiver pronto -->
 
